@@ -182,10 +182,10 @@ exec --no-startup-id pa-applet
 exec --no-startup-id nm-applet
 exec --no-startup-id dunst
 
-# Set lock macro
+# Set lock macro (I'm using a modified i3lock)
 bindsym $mod+l "exec /home/soszyn_h/Softwares/i3lock -l '#ffffff' -e -f -i /home/soszyn_h/Images/batmetal.png"
 
-# Set atom macro
+# Set clion macro
 bindsym $mod+a exec clion
 
 # Set evince macro
